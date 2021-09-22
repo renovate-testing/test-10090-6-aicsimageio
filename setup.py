@@ -44,7 +44,7 @@ test_requirements = [
     "distributed>=2021.4.1",
     "docutils>=0.10,<0.16",
     "psutil>=5.7.0",
-    "pytest>=5.4.3",
+    "pytest>=6.2.5",
     "pytest-cov>=2.9.0",
     "pytest-raises>=0.11",
     "quilt3",  # no pin to avoid pip cycling (boto is really hard to manage)
