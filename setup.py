@@ -40,7 +40,7 @@ setup_requirements = [
 
 test_requirements = [
     *all_formats,
-    "codecov>=2.1.4",
+    "codecov>=2.1.12",
     "distributed>=2021.4.1",
     "docutils>=0.10,<0.16",
     "psutil>=5.7.0",
