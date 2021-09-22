@@ -35,7 +35,7 @@ for deps in format_libs.values():
         all_formats.append(dep)
 
 setup_requirements = [
-    "pytest-runner>=5.2",
+    "pytest-runner>=5.3.1",
 ]
 
 test_requirements = [
@@ -66,7 +66,7 @@ dev_requirements = [
     "isort>=5.7.0",
     "m2r2>=0.2.7",
     "mypy>=0.800",
-    "pytest-runner>=5.2",
+    "pytest-runner>=5.3.1",
     "Sphinx>=3.4.3",
     "sphinx_rtd_theme>=0.5.1",
     "twine>=3.1.1",
