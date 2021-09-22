@@ -45,7 +45,7 @@ test_requirements = [
     "docutils>=0.10,<0.16",
     "psutil>=5.7.0",
     "pytest>=5.4.3",
-    "pytest-cov>=2.9.0",
+    "pytest-cov>=2.12.1",
     "pytest-raises>=0.11",
     "quilt3",  # no pin to avoid pip cycling (boto is really hard to manage)
     "s3fs[boto3]>=0.4.2",
