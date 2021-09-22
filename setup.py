@@ -48,14 +48,14 @@ test_requirements = [
     "pytest-cov>=2.9.0",
     "pytest-raises>=0.11",
     "quilt3",  # no pin to avoid pip cycling (boto is really hard to manage)
-    "s3fs[boto3]>=0.4.2",
+    "s3fs[boto3]>=0.6.0",
     "tox>=3.15.2",
 ]
 
 dev_requirements = [
     *setup_requirements,
     *test_requirements,
-    "asv>=0.4.2",
+    "asv>=0.6.0",
     "black>=19.10b0",
     "bump2version>=1.0.1",
     "coverage>=5.1",
