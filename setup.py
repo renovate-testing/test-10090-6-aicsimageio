@@ -88,7 +88,7 @@ requirements = [
     "tifffile>=2021.6.6",
     "xarray~=0.16.1",
     "xmlschema",  # no pin because it's pulled in from OME types
-    "zarr~=2.6",
+    "zarr~=2.10.3",
 ]
 
 extra_requirements = {
