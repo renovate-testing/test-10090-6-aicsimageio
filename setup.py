@@ -86,7 +86,7 @@ requirements = [
     "numpy~=1.16",
     "ome-types~=0.2",
     "tifffile>=2021.6.6",
-    "xarray~=0.16.1",
+    "xarray~=0.20.2",
     "xmlschema",  # no pin because it's pulled in from OME types
     "zarr~=2.6",
 ]
