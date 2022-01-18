@@ -75,7 +75,7 @@ dev_requirements = [
 
 benchmark_requirements = [
     *dev_requirements,
-    "dask-image~=0.6.0",
+    "dask-image~=2021.12.0",
 ]
 
 requirements = [
