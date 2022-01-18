@@ -42,7 +42,7 @@ test_requirements = [
     *all_formats,
     "codecov>=2.1.4",
     "distributed>=2021.4.1",
-    "docutils>=0.10,<0.16",
+    "docutils>=0.18.1,<0.19",
     "psutil>=5.7.0",
     "pytest>=5.4.3",
     "pytest-cov>=2.9.0",
