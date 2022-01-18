@@ -41,7 +41,7 @@ setup_requirements = [
 test_requirements = [
     *all_formats,
     "codecov>=2.1.4",
-    "distributed>=2021.4.1",
+    "distributed>=2021.12.0",
     "docutils>=0.10,<0.16",
     "psutil>=5.7.0",
     "pytest>=5.4.3",
