@@ -69,7 +69,7 @@ dev_requirements = [
     "pytest-runner>=5.2",
     "Sphinx>=3.4.3",
     "sphinx_rtd_theme>=0.5.1",
-    "twine>=3.1.1",
+    "twine>=3.7.1",
     "wheel>=0.34.2",
 ]
 
