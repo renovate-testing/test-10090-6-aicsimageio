@@ -70,7 +70,7 @@ dev_requirements = [
     "Sphinx>=3.4.3",
     "sphinx_rtd_theme>=0.5.1",
     "twine>=3.1.1",
-    "wheel>=0.34.2",
+    "wheel>=0.37.1",
 ]
 
 benchmark_requirements = [
